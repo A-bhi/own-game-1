@@ -1,0 +1,5 @@
+StoryLine: The story starts with a man who is going to the vaccination center
+ to get his vaccination and there is a lot of coronavirus on the way,
+ he has to avoid all of them and get the 
+vaccination done and don't have to collect masks on the
+ way.
